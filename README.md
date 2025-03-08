@@ -9,5 +9,5 @@ M'Y OWNER IS ADORIERU D STARK VII 💧
 <a><img src='https://kamado-session-4.onrender.com'/></a>   
 
 ## DEPLOY ON RENDER 🫠
-<a href='' target="_blank"><img alt='DEPLOY RENDER' src='https://img.shields.io/badge/Click here to get your Session code-blue?style=for-the-badge&logo=opencv&logoColor=black'/></a> 
-<a><img src='https://render.com/'/></a>    
+<a href='' target="_blank"><img alt='deploy render' src='https://render.com/ here to déploi on render-blue?style=for-the-badge&logo=opencv&logoColor=black'/></a> 
+
