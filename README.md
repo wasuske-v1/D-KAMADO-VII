@@ -1,0 +1,5 @@
+# HELLO WORLD 🌍
+i'm bug bot developed by WASUKE D KAMADO 
+M'Y OWNER IS ADORIERU D STARK VII 💧 
+
+# M'Y SESSION ID 🦅👇
